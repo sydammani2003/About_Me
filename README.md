@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sydam_mani
 - 👀 I’m interested in wandering around the world[Coding World]
-- 🌱 I’m currently learning Full stack web development
+- 🌱 I’m currently learning Full stack Mobile Application development
 - 💞️ I’m looking for Internship
 - 📫  reach me at https://www.linkedin.com/in/sydam-manikyala-rao-672796245/
 
