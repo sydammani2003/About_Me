@@ -4,7 +4,11 @@
 - 💞️ I’m looking for Internship
 - 📫  reach me at https://www.linkedin.com/in/sydam-manikyala-rao-672796245/
 
-From the scenic heights of Himachal Pradesh to the vibrant cityscapes of Hyderabad, my journey has been nothing short of an adventure. My academic story began at Bharati Vidyapeet School in Himachal, where I laid the foundation of my education alongside my elder brother. The next chapter unfolded in Hyderabad at St. Mark's High School, where I thrived and set my sights on the future.
+My journey in the world of technology began at a very young age. At just one year old, I moved with my family to the serene landscapes of Himachal Pradesh, where I completed my primary education at Bharati Vidyapeet School. Growing up with a biological elder brother, I soon transitioned to the bustling city of Hyderabad, where I graduated from St. Mark's High School.
 
-With a passion for technology, I earned a place at Vellore Institute of Technology, pursuing a degree in Computer Science. My time there was marked by exciting projects, a dynamic role in the ACM club's technical team, and a thrilling internship as a GIS developer at a startup. Each experience has been a step towards my dream, and I can't wait to see where this path leads next.
+My passion for computer science led me to secure a seat at the prestigious Vellore Institute of Technology. During my bachelor's program, I immersed myself in a multitude of projects, honing my skills and pushing the boundaries of innovation. My dedication earned me a spot as a technical team member in the ACM club, where I collaborated with brilliant minds to solve complex problems.
+
+Eager to apply my knowledge in real-world scenarios, I seized the opportunity to work as a GIS developer intern at a startup. This experience, coupled with my freelancing role as a Subject Matter Expert, allowed me to refine my expertise and broaden my horizons. Additionally, I ventured into the dynamic world of cryptocurrency, gaining valuable insights as a crypto broker.
+
+As I continue to explore the endless possibilities in technology, I am excited to share my journey and contributions with the world through my GitHub profile. Welcome to my digital portfolio, where passion meets innovation!
 
