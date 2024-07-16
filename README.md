@@ -2,7 +2,7 @@
 - 👀 I’m interested in wandering around the world[Coding World]
 - 🌱 I’m currently learning Full stack Mobile Application development
 - 💞️ I’m looking for Internship
-- 📫  reach me at https://www.linkedin.com/in/sydam-manikyala-rao-672796245/
+- 📫  reach me at https://main--meek-palmier-cbb1ed.netlify.app/
 
 My journey in the world of technology began at a very young age. At just one year old, I moved with my family to the serene landscapes of Himachal Pradesh, where I completed my primary education at Bharati Vidyapeet School. Growing up with a biological elder brother, I soon transitioned to the bustling city of Hyderabad, where I graduated from St. Mark's High School.
 
